@@ -3,7 +3,7 @@
 @section('title', 'Edit Anggota — SIPUS')
 
 @section('content')
-    <div class="max-w-xl mx-auto">
+    <div class="w-full">
         <div class="mb-6">
             <h1 class="text-2xl font-bold text-slate-900">Edit Data Anggota</h1>
             <p class="text-sm text-slate-500 mt-0.5">Perbarui data anggota perpustakaan.</p>

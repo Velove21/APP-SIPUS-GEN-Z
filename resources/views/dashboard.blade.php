@@ -5,8 +5,9 @@
 @section('content')
     <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
         <div>
-            <h1 class="text-2xl font-bold text-slate-900">Dashboard Perpustakaan</h1>
-            <p class="text-sm text-slate-500 mt-0.5">Ringkasan koleksi buku, anggota aktif, dan transaksi peminjaman.</p>
+            <h1 class="text-2xl font-bold text-slate-900">HAI SOBAT SIPUS!</h1>
+            <p class="text-sm text-slate-500 mt-0.5">Buku adalah jendela dunia!</p>
+             <p class="text-sm text-slate-500 mt-0.5">Info lengkap tentang koleksi buku dan layanan perpustakaan digital.</p>
         </div>
         <div class="flex flex-wrap items-center gap-2">
             <a href="{{ route('peminjaman.create') }}"
